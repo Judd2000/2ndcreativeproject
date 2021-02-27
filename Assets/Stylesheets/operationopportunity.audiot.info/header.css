@@ -1,0 +1,24 @@
+/**************
+*   General   *
+**************/
+
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(128, 128, 128);
+}
+
+h1, h2 {
+    font-family: Didot, Calibri, Candara, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    font-family: Verdana, Calibri, Candara, sans-serif;
+}
